@@ -5,7 +5,7 @@
 - Eğitmen tarafından sisteme girilen sınav soruları "sorubankasi.dat" dosyasında tutulmaktadır.
 - Her bir sınav türü ayrı sınıf olarak özellik belirtilmiş olup arasındaki ilişki "image.png" dosyasında verilmiştir.
 - Eğitmen girmiş olduğu sınav sorularını istediğinde görüntüleyebilecektir.
-- Öğrencinin erdiği cevaplar "sorular.dat" isimli dosyada saklanacaktır. 
+- Öğrencinin verdiği cevaplar "sinavlar.dat" isimli dosyada saklanacaktır. 
 - Sınav sonunda öğrenci notunu görüntüleyebilecektir.
 
 
